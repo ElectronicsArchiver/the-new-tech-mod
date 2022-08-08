@@ -30,12 +30,12 @@
 
 ### Storage
 
-![Storage Exiopolis]
+![Storage Exiopolis]   
 ![Storage Heavy]
 
 ### Environment
 
-![Environment Cyan]
+![Environment Cyan]   
 ![Environment Lawor]
 
 <br>
